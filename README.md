@@ -1,2 +1,2 @@
 # AI
-all project of this course.
+all homework of this course.
